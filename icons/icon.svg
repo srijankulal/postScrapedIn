@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect width="128" height="128" rx="28" fill="#0A66C2"/>
+  <!-- Document outline -->
+  <path d="M 40 34 L 84 34 L 84 66 L 76 66 L 76 42 L 48 42 L 48 86 L 72 86 L 72 94 L 40 94 Z" fill="#FFFFFF"/>
+  <!-- Horizontal Text Lines -->
+  <rect x="54" y="50" width="22" height="4" rx="2" fill="#FFFFFF"/>
+  <rect x="54" y="60" width="22" height="4" rx="2" fill="#FFFFFF"/>
+  <rect x="54" y="70" width="16" height="4" rx="2" fill="#FFFFFF"/>
+  <!-- Integrated Downward Extraction Arrow -->
+  <path d="M 84 66 L 92 66 L 92 82 L 99 82 L 88 95 L 77 82 L 84 82 Z" fill="#FFFFFF"/>
+</svg>
